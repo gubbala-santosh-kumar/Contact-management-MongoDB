@@ -18,11 +18,11 @@ This is a simple web application that helps you manage your contacts. You can ea
 ## Screenshots
 - **Home Page**: The main page where you can add new contacts and see your current contacts in a table format.
 
-<center><img href='images/Home-Page.png' alt='Home Page'></center>
+<center><img src='images/Home-Page.png' alt='Home Page'></center>
 
 - **Edit Contact Page**: The page where you can modify the details of an existing contact.
 
-<center><img href='images/Edit-Contact-Page.png' alt='Home Page'></center>
+<center><img src='images/Edit-Contact-Page.png' alt='Home Page'></center>
 
 ## Conclusion
 The Contact Management System is a simple and practical web app for keeping your contacts organized. It shows how combining Node.js, Express.js, EJS, and MongoDB can help you build a functional and easy-to-use tool for managing your contacts efficiently.
